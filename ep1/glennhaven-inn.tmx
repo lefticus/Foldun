@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="11" height="9" tilewidth="32" tileheight="32" nextobjectid="10">
+ <tileset firstgid="1" name="Tileset" tilewidth="32" tileheight="32">
+  <image source="Tileset.png" width="640" height="640"/>
+  <terraintypes>
+   <terrain name="Building" tile="-1"/>
+  </terraintypes>
+  <tile id="48" terrain=",,,0"/>
+  <tile id="49" terrain=",,0,0"/>
+  <tile id="50" terrain=",,0,"/>
+  <tile id="68" terrain=",0,,0"/>
+  <tile id="69" terrain="0,0,0,0"/>
+  <tile id="70" terrain="0,,0,"/>
+  <tile id="88" terrain=",0,,"/>
+  <tile id="89" terrain="0,0,,"/>
+  <tile id="90" terrain="0,,,"/>
+ </tileset>
+ <tileset firstgid="401" name="deborah" tilewidth="32" tileheight="48">
+  <image source="deborah.png" width="128" height="192"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="11" height="9">
+  <data encoding="base64" compression="zlib">
+   eJwzZGBgMCKAjRkgwBWI3Qhg9xGgNhKIo5CwGxofhKMZsAM3HOIgAAA24hYT
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1">
+  <object id="9" gid="403" x="157.5" y="126.5" width="32" height="48"/>
+ </objectgroup>
+</map>

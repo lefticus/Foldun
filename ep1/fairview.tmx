@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="7" height="8" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="Tileset" tilewidth="32" tileheight="32">
+  <image source="Tileset.png" width="640" height="640"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="7" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxtTkEKADAI6qB/WP//6BYoSOwgmBraVYWHI5i3MJyCfehG5PHJW+PqYOhc/ub+6bhTd0fuzn0XXe8DAQ==
+  </data>
+ </layer>
+ <layer name="Tile Layer 4" width="7" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYKA+qIViWqlHBxxAzImDBgDjOAIw
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="7" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAM7gHxfSB+gEXuExB/BuIvWOTYGBkY2IGYgxFTTgooJg3EMljk9IBi+kBsgCRXiYSr0Pj4AACFDwnD
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="7" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYKA+cEJimzOiyoUhicMwOgCJmeGQIxUAANcpAiA=
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1"/>
+ <layer name="DataLayer" width="7" height="8" opacity="0.43">
+  <data encoding="base64" compression="zlib">
+   eJxjYKA+qGVEYGxy6GrQ1SKrIdU+dAwAaxwI3Q==
+  </data>
+ </layer>
+</map>

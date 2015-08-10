@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="9" height="7" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="Tileset" tilewidth="32" tileheight="32">
+  <image source="Tileset.png" width="640" height="640"/>
+ </tileset>
+ <tileset firstgid="401" name="Deborah" tilewidth="24" tileheight="32">
+  <image source="Deborah.png" width="128" height="192"/>
+ </tileset>
+ <tileset firstgid="431" name="deborah-2" tilewidth="32" tileheight="48">
+  <image source="deborah-2.png" width="128" height="192"/>
+ </tileset>
+ <layer name="Tile Layer 2" width="9" height="7">
+  <data encoding="base64" compression="zlib">
+   eJx1TkEKADAI6qB/mP//6DYwkKCDaKYRqoqGHhBze8esZVZ04T1Hvju0RujMMW5o9GZ3+xfhb/xxAfW7A3w=
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="9" height="7">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAE54D4PBZxZPAIiB+jiX0C4i9I/G9A/B2InaAYBNgYGRg4GBFquIBsBSAOY4BgENAD8g2Q1BgB2SZIaiqBuApKI2NkMWzgHBofAHa5Dyc=
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="9" height="7">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAdOBEQA7HDoGxzRggfWYwBTR5ZDQiYQcUYkNSAxMLQzCDkRkIYALYfB1U=
+  </data>
+ </layer>
+ <layer name="DataTiles" width="9" height="7" opacity="0.35">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAd1DLiFwOxsfGRxbHR6HrQ2ehqCLmREAYAbx8MTw==
+  </data>
+ </layer>
+</map>
